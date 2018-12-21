@@ -1,0 +1,3 @@
+a = input("lütfen yazı yazın : ")
+
+print(a[::-1],"tersten")
